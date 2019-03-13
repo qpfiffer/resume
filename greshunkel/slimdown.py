@@ -34,7 +34,7 @@ class Slimdown(object):
 
     def ul_list(self, match):
         item = match.groups()[0]
-        return "\n<ul><li>{}</li></ul>".format(item.strip())
+        return "\n<ul><li><span>{}</span></li></ul>".format(item.strip())
 
     def ol_list(self, match):
         item = match.group(0)
