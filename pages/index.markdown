@@ -11,7 +11,8 @@ are a lot more things I've worked on, but these have been personal favorites.
 
 #### [OlegDB](http://olegdb.org/)
 
-* Full end-to-end datastore implementation in C, Golang and Erlang
+* __Programming Languages__: C, Golang, Erlang
+* Full end-to-end datastore/hash-table implementation
 * Managed a small international team of open source developers
 * Managed social media and community outreach efforts
 * Full continuous integration, tested codebase
@@ -19,35 +20,37 @@ are a lot more things I've worked on, but these have been personal favorites.
 
 #### [Simple Sparsehash](https://github.com/qpfiffer/Simple-Sparsehash)
 
+* __Programming Languages__: C
 * Full re-implementation of Google's SparseHash hashing library as a teaching/learning exercise
-* Written in C
 
 #### [38-Moths](https://github.com/qpfiffer/38-Moths)
 
-* Full web framework written in C
+* __Programming Languages__: C, Python
 * Custom templating language
 * Custom HTTP server
+* C/Python FFI
 * Kinda fast
 
 #### [Lair](https://github.com/qpfiffer/lair)
 
-* From-scratch implementation of a language in C
+* __Programming Languages__: C
 * Full parser/lexer
 * Full test suite
 
 #### [Merveilles IO](https://github.com/qpfiffer/merveilles_io)
 
-* Rock solid Python Flask application to archive links from IRC
+* __Programming Languages__: Python 
 * Uses Kyoto Cabinet as the data backend
 * It's been running 24/7 with no issues
 * Even makes thumbnails of images!
 
 ## Work Experience
  
-### Nike Innovation Accelerator - Senior Backend Web Developer
+### Nike Valiant Labs- Senior Backend Web Developer
  
 #### December 2016 - May 2018
 
+* __Technologies__: Python, Django, GraphQL, node.js, AWS, PostgreSQL, Postgraphile, Stripe, Checkr
 * Worked alone to implement the entire backend for a market-to-market fitness application first in Django, then later with node.js.
 * Extensive AWS experience - Elastic Beanstalk, Lambda, RDS, EC2, etc.
 * PostgreSQL, deployment, querying, data modeling, optimization
@@ -57,6 +60,7 @@ are a lot more things I've worked on, but these have been personal favorites.
  
 #### October 2014 - July 2016
 
+* __Technologies__: Python/Django, Rails/Ruby, node.js, Clojure, Datomic, objective-c, C, Android, Coffeescript
 * Worked backend/frontend on many different projects, including Rails, Django and node.js.
 * Provided support and low-level code for a large iOS application
 * Spent lots of time in different languages: Python 2/3, Ruby, objective-C, regular C, clojure, node.js, coffeescript
@@ -66,6 +70,7 @@ are a lot more things I've worked on, but these have been personal favorites.
  
 #### May 2012 - August 2014
 
+* __Technologies__: Python/Django, Linux, Bash, Puppet, HTML/CSS
 * Spent a lot of time on a huge warehouse management system with many moving pieces
 * Managed client relations to track and fix bugs, implement features, implement features, implement features
 * Brief tenure as SCRUM leader
@@ -77,4 +82,5 @@ are a lot more things I've worked on, but these have been personal favorites.
 
 #### Summer 2011
 
+* __Technologies__: C++, Perl
 * Worked with Managed C++ to build a large testing framework for different hardware projects
