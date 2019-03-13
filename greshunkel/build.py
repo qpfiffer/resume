@@ -3,9 +3,9 @@ from greshunkel.utils import parse_variable, interpolate
 from os import listdir, makedirs, path
 import re
 
-POSTS_DIR = "posts/"
+POSTS_DIR = "pages/"
 TEMPLATE_DIR = "templates/"
-BLOGPOST_FILE = "blog_post.html"
+BLOGPOST_FILE = "index.html"
 BLOGPOST_TEMPLATE = TEMPLATE_DIR + BLOGPOST_FILE
 BUILD_DIR = "built/"
 
@@ -241,6 +241,11 @@ def main(context):
 
     for base_file in tree:
         _render_file(tree[base_file], context)
+
+    for post in context['POSTS']:
+        context['dumb_meta'] = [post]
+        post_meta = parse_file(context, BLOGPOST_FILE)
+        _render_file(post_meta, context, output_filename=post['built_filename'])
 
     # BeCaUsE WhY NoT
     return 0

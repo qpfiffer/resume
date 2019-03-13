@@ -1,0 +1,14 @@
+xXx PARENT=templates/base.html xXx
+xXx TITLE xXx
+    Quinlan Pfiffer - Resume
+xXx TTYL xXx
+xXx CONTENT xXx
+<div class="blog_posts">
+    xXx LOOP post_meta dumb_meta xXx
+        <div class="content">
+            xXx post_meta$content xXx
+        </div>
+        <footer><span>Last updated xXx post_meta$date xXx</span></footer>
+    xXx BBL xXx
+</div>
+xXx TTYL xXx
