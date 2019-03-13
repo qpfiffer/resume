@@ -6,7 +6,6 @@ code {
 	white-space: pre-wrap;
 }
 a {
-	text-decoration: none;
 	color: #EF7C7C;
 }
 a:hover {
@@ -14,7 +13,6 @@ a:hover {
 }
 
 h3 {
-	color: #EF7C7C;
 }
 
 h4, h5, h6 {
@@ -58,5 +56,5 @@ footer {
 	font-size: 0.75em;
 }
 #job_title {
-	margin-top: 0;
+	margin-bottom: 0;
 }

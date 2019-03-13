@@ -42,14 +42,13 @@ are a lot more things I've worked on, but these have been personal favorites.
 * It's been running 24/7 with no issues
 * Even makes thumbnails of images!
 
-
 ## Work Experience
  
 ### Nike Innovation Accelerator - Senior Backend Web Developer
  
 #### December 2016 - May 2018
 
-* Worked alone to implement the entire backend for a market-to-market fitness application
+* Worked alone to implement the entire backend for a market-to-market fitness application first in Django, then later with node.js.
 * Extensive AWS experience - Elastic Beanstalk, Lambda, RDS, EC2, etc.
 * PostgreSQL, deployment, querying, data modeling, optimization
 * Relied heavily on GraphQL for backend, extended both with Python and node.js
@@ -73,3 +72,9 @@ are a lot more things I've worked on, but these have been personal favorites.
 * Implemented both frontend designs and backend business logic
 * Extensive data modeling and DB management
 * Used puppet to manage and deploy in-house hosting solution
+
+### Intel - Junior Software Dev
+
+#### Summer 2011
+
+* Worked with Managed C++ to build a large testing framework for different hardware projects
