@@ -16,7 +16,7 @@ are a lot more things I've worked on, but these have been personal favorites.
 * Managed a small international team of open source developers
 * Managed social media and community outreach efforts
 * Full continuous integration, tested codebase
-* Started as a joke but turned into a Real Thing
+* Started as a joke but turned into a Real Thing<i class="fas fa-trademark"></i>
 
 #### [Simple Sparsehash](https://github.com/qpfiffer/Simple-Sparsehash)
 
@@ -44,9 +44,10 @@ are a lot more things I've worked on, but these have been personal favorites.
 * It's been running 24/7 with no issues
 * Even makes thumbnails of images!
 
+<!--
 ## Work Experience
  
-### Nike Valiant Labs- Senior Backend Web Developer
+### Nike Valiant Labs - Senior Backend Web Developer
  
 #### December 2016 - May 2018
 
@@ -66,7 +67,7 @@ are a lot more things I've worked on, but these have been personal favorites.
 * Spent lots of time in different languages: Python 2/3, Ruby, objective-C, regular C, clojure, node.js, coffeescript
 * Extensive experience with PostgreSQL and Datomic
 
-### aquameta - Fullstack Web Developer
+### Aquameta - Fullstack Web Developer
  
 #### May 2012 - August 2014
 
@@ -84,3 +85,4 @@ are a lot more things I've worked on, but these have been personal favorites.
 
 * __Technologies__: C++, Perl
 * Worked with Managed C++ to build a large testing framework for different hardware projects
+-->
