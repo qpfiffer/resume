@@ -26,6 +26,7 @@ are a lot more things I've worked on, but these have been personal favorites.
 #### [38-Moths](https://github.com/qpfiffer/38-Moths)
 
 * __Programming Languages__: C, Python
+* Lightweight, unopinionated web framework
 * Custom templating language
 * Custom HTTP server
 * C/Python FFI
@@ -34,15 +35,23 @@ are a lot more things I've worked on, but these have been personal favorites.
 #### [Lair](https://github.com/qpfiffer/lair)
 
 * __Programming Languages__: C
+* Programming language and interpreter implemented from scratch
 * Full parser/lexer
 * Full test suite
 
 #### [Merveilles IO](https://github.com/qpfiffer/merveilles_io)
 
 * __Programming Languages__: Python 
+* Flask based link aggregation framework hooked up to IRC
 * Uses Kyoto Cabinet as the data backend
 * It's been running 24/7 with no issues
 * Even makes thumbnails of images!
+
+#### [Metaforcefeed](https://github.com/qpfiffer/metaforcefeed)
+
+* __Programming Languages__: Python
+* Flask based CRUD-style application for managing meetups and ideas
+* 100% based on OlegDB
 
 <!--
 ## Work Experience
