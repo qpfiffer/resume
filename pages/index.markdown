@@ -44,54 +44,9 @@ are a lot more things I've worked on, but these have been personal favorites.
 * __Programming Languages__: Python 
 * Flask based link aggregation framework hooked up to IRC
 * Uses Kyoto Cabinet as the data backend
-* It's been running 24/7 with no issues
 * Even makes thumbnails of images!
 
 #### [Metaforcefeed](https://github.com/qpfiffer/metaforcefeed)
 
 * __Programming Languages__: Python
 * Flask based CRUD-style application for managing meetups and ideas
-* 100% based on OlegDB
-
-<!--
-## Work Experience
- 
-### Nike Valiant Labs - Senior Backend Web Developer
- 
-#### December 2016 - May 2018
-
-* __Technologies__: Python, Django, GraphQL, node.js, AWS, PostgreSQL, Postgraphile, Stripe, Checkr
-* Worked alone to implement the entire backend for a market-to-market fitness application first in Django, then later with node.js.
-* Extensive AWS experience - Elastic Beanstalk, Lambda, RDS, EC2, etc.
-* PostgreSQL, deployment, querying, data modeling, optimization
-* Relied heavily on GraphQL for backend, extended both with Python and node.js
-
-### Survant James - Fullstack Web Developer
- 
-#### October 2014 - July 2016
-
-* __Technologies__: Python/Django, Rails/Ruby, node.js, Clojure, Datomic, objective-c, C, Android, Coffeescript
-* Worked backend/frontend on many different projects, including Rails, Django and node.js.
-* Provided support and low-level code for a large iOS application
-* Spent lots of time in different languages: Python 2/3, Ruby, objective-C, regular C, clojure, node.js, coffeescript
-* Extensive experience with PostgreSQL and Datomic
-
-### Aquameta - Fullstack Web Developer
- 
-#### May 2012 - August 2014
-
-* __Technologies__: Python/Django, Linux, Bash, Puppet, HTML/CSS
-* Spent a lot of time on a huge warehouse management system with many moving pieces
-* Managed client relations to track and fix bugs, implement features, implement features, implement features
-* Brief tenure as SCRUM leader
-* Implemented both frontend designs and backend business logic
-* Extensive data modeling and DB management
-* Used puppet to manage and deploy in-house hosting solution
-
-### Intel - Junior Software Dev
-
-#### Summer 2011
-
-* __Technologies__: C++, Perl
-* Worked with Managed C++ to build a large testing framework for different hardware projects
--->
